@@ -2,7 +2,7 @@
 
 **NebulaClient** is the ultimate **Skyblock macro client** — designed to bring high efficiency, ease of use, and powerful automation to your Hypixel Skyblock experience. With a wide range of built-in macros and a growing community, it's never been easier to maximize your gameplay potential.
 
-> 💻 [Download Now](https://nebulaclient.zip) | 💬 [Join Our Discord](https://nebulaclient.zip/discord)
+> 💻 [Download Now](https://nebulaclient.net) | 💬 [Join Our Discord](https://nebulaclient.net/discord)
 
 ---
 
@@ -22,17 +22,17 @@ Built with performance and stability in mind, NebulaClient supports extensive co
 
 ## 🚀 Getting Started
 
-1. **Download** the latest release from [nebulaclient.zip](https://nebulaclient.zip)  
+1. **Download** the latest release from [nebulaclient.zip](https://nebulaclient.net)  
 2. **Configure** your macros using our user-friendly UI  
 3. **Launch** and dominate the grind
 
-Need help? Head over to our [Discord server](https://nebulaclient.zip/discord) for support and community guides.
+Need help? Head over to our [Discord server](https://nebulaclient.net/discord) for support and community guides.
 
 ---
 
 ## 🌐 Community & Support
 
-We're more than just a macro — we're a **community**. Whether you need help, want to suggest features, or just chat with other users, our [Discord server](https://nebulaclient.zip/discord) is the place to be.
+We're more than just a macro — we're a **community**. Whether you need help, want to suggest features, or just chat with other users, our [Discord server](https://nebulaclient.net/discord) is the place to be.
 
 > 🔥 Join thousands of users already automating their Skyblock experience with NebulaClient.
 
