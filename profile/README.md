@@ -22,7 +22,7 @@ Built with performance and stability in mind, NebulaClient supports extensive co
 
 ## 🚀 Getting Started
 
-1. **Download** the latest release from [nebulaclient.zip](https://nebulaclient.net)  
+1. **Download** the latest release from [nebulaclient.net](https://nebulaclient.net)  
 2. **Configure** your macros using our user-friendly UI  
 3. **Launch** and dominate the grind
 
